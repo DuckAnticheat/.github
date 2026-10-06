@@ -4,10 +4,10 @@ I am an independent developer dedicated to creating a Advanced, Optimized, and H
 ---
 
 ### 🚀 My Main Project: 1.8.9 Anti-Cheat
-I'm building a **Simulation & Prediction Anti-Cheat** based on Grim, but heavily upgraded and optimized for the 1.8.9 PvP ecosystem."
+I'm building a **Simulation & Prediction Anti-Cheat** based on Grim, but heavily upgraded and optimized for the 1.8.9 PvP ecosystem.
 
-*   ** Next-Gen Physics:** It literally re-simulates vanilla player physics on the fly to catch weird movements.
-*   ** Motion Prediction:** Catches modern cheat clients by calculating expected movement vectors.
+*   **Next-Gen Physics:** It literally re-simulates vanilla player physics on the fly to catch weird movements.
+*   **Motion Prediction:** Catches modern cheat clients by calculating expected movement vectors.
 *   **⚡ Lightweight & Fast:** Designed to handle heavy player counts without impacting server TPS.
 
 ---
