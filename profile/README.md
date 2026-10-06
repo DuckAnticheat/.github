@@ -14,13 +14,10 @@ I'm building a **Simulation & Prediction Anti-Cheat** based on Grim, but heavily
 
 ### 🛠️ My Coding Language
 *   **Language:** Java
-*   **How it works:** Reading packets, copying Minecraft actual physics engine serverside, and predicting every move.
-*   **Target Version:** 1.8.9 PvP ⚔️
-
 ---
 
 ### 📜 Open Source
-I believe in transparency. All my core work is licensed under the **GNU AGPL v3**. 
+I believe in transparency. All my work is licensed under the **GNU AGPL v3**. 
 *   Anyone can view, use, or suggest improvements to the code.
 *   Any modification used on a public network must remain Open Source.
 *   Commercial exploitation and rebranding without proper attribution are strictly forbidden. 🛑
