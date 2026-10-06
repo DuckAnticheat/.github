@@ -19,7 +19,7 @@ I'm building a **Simulation & Prediction Anti-Cheat** based on Grim, but heavily
 
 ---
 
-### 📜 Open Source & Philosophy
+### 📜 Open Source
 I believe in transparency. All my core work is licensed under the **GNU AGPL v3**. 
 *   Anyone can view, use, or suggest improvements to the code.
 *   Any modification used on a public network must remain Open Source.
