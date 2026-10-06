@@ -3,7 +3,7 @@
 I am an independent developer dedicated to creating a Advanced, Optimized, and High-Performance Anti-Cheat for your server !
 ---
 
-### 🚀 My Main Project: 1.8.9 Anti-Cheat
+### My Main Project: 1.8.9 Anti-Cheat
 I'm building a **Simulation & Prediction Anti-Cheat** based on Grim, but heavily upgraded and optimized for the 1.8.9 PvP ecosystem.
 
 *   **Next-Gen Physics:** It literally re-simulates vanilla player physics on the fly to catch weird movements.
@@ -14,7 +14,7 @@ I'm building a **Simulation & Prediction Anti-Cheat** based on Grim, but heavily
 
 ### 🛠️ My Coding Language
 *   **Language:** Java
-*   **How it works:** Reading packets, copying Minecraft's actual physics engine server-side, and predicting every move. ⚙️
+*   **How it works:** Reading packets, copying Minecraft actual physics engine serverside, and predicting every move.
 *   **Target Version:** 1.8.9 PvP ⚔️
 
 ---
