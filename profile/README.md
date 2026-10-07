@@ -1,6 +1,6 @@
 # ❤️🎀 Welcome to DuckAnticheat
 
-I am an independent developer dedicated to creating a Advanced, Optimized, and High-Performance Anti-Cheat for your server !
+I am an independent developer creating an advanced, optimized, and high-performance anti-cheat for your servers.
 ---
 
 ### 🛠️ My Coding Language
@@ -18,3 +18,5 @@ I believe in transparency. All my work is licensed under the **GNU AGPL v3**.
 ### 🤝 Connect With Us
 *    Feel free to contact me : aceersibuisness@outlook.com
 *   💼 **Contribute:** Check out our repositories, open an issue, or submit a pull request!
+
+[Readme Created by AI]
